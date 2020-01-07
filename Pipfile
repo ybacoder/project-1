@@ -4,13 +4,18 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+black = "*"
+blackcellmagic = "*"
 
 [packages]
-ipykernel = "*"
-pandas = "*"
-numpy = "*"
-matplotlib = "*"
-requests ="*"
+ipykernel = "==5.1.3"
+pandas = "==0.25.3"
+numpy = "==1.18.1"
+matplotlib = "==3.2.0rc1"
+requests ="==2.22.0"
 
 [requires]
 python_version = "3.7"
+
+[pipenv]
+allow_prereleases = true
