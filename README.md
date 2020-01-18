@@ -49,4 +49,4 @@ Austin has seen explosive growth over the last several years. We will seek to an
 
 ### Population vs. Employment
 * The bar chart below illustrates employment rates vs. population. This chart demonstrates that Austin has a healthy job market and that many people may be moving to Austin for new jobs.  
-![Employment_vs_Population](Images/23 Employment vs. Housing.png)
+[Employment_vs_Population](Images/23 Employment vs. Housing.png)
