@@ -22,6 +22,7 @@ Austin has seen explosive growth over the last several years. We will seek to an
 * U.S. Bureau of Labor Statistics  
 * Zillow Research - Median Sale Price by Zip Code  
 * Slipstream Home Junction API - Austin Zip Codes  
+  * Link to get a trial key: https://homejunctioninc.lpages.co/slipstream-api-postman-collection/
 
 ## Results  
 ### Population Growth
